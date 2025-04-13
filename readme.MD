@@ -1,10 +1,10 @@
 # Analisa Sentimen
 
 ```
-Lakukan scraping terlebih dahulu dengan menggunakan file <br />
-"[Scraping] Submission Proyek Analisis Sentimen_Muhammad Akmal Maulana.ipynb" <br />
-Kemudian proses dengan menggunakan file <br />
-"[Model] Submission Proyek Analisa Sentimen Muhammad_Akmal_Maulana.ipynb" <br />
+Lakukan scraping terlebih dahulu dengan menggunakan file 
+"[Scraping] Submission Proyek Analisis Sentimen_Muhammad Akmal Maulana.ipynb"
+Kemudian proses dengan menggunakan file
+"[Model] Submission Proyek Analisa Sentimen Muhammad_Akmal_Maulana.ipynb" 
 ```
 
 ## Library yang Digunakan
